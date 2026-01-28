@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- This section defines general project settings -->
+  <PropertyGroup>
+    <!-- Specifies that this project builds a console application -->
+    <OutputType>Exe</OutputType>
+
+    <!-- Specifies the .NET version being used -->
+    <TargetFramework>net6.0</TargetFramework>
+
+    <!-- Enables modern C# features -->
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <!-- Enables nullable reference types -->
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
